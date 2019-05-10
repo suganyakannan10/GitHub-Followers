@@ -12,5 +12,5 @@ Here i have used Tkinter to devlop the Gui part.
 
 Screen Recording file shows how to run the Gui.py file and display result.
 
-Run the Gui.py to see the ranking.
+To ee the result, run the Gui.py file.It will show the interface, copy any of the melbourne based Github user url and pasted it in the box and click the run button. It will diasplay the result.
 
